@@ -1,0 +1,15 @@
+[23-May-2023 05:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ôö:7h6841™MhDæ³8é4c9?c-232$Ä935‚l9Âd4<466294Õä;9½h6bS8©4c9‘c-2ô2Õ­4™65Xdhdå14868955412ıhDNj896d9Ôc-Ì8òğ)Ô‰35-b9µd&Ä74:6xé55412ÛhH2c8Ù4Ó5³Í1C20ÀÄ9ó5Rùgd%46È8;?Å418M˜Dbc89ôjù=Ã-Ä320m4>3Ø bybdÍÒ1(6=8É55>1âM¸$be1Fˆ`9(cı3érö-ä98-b0bd2;667•5“1ÑGhDnÃ89?³92­"<V9-º9?÷-Â9b©() in /home/lotusgol/public_html/salararjmandpour.me/css/admin.php:86
+Stack trace:
+#0 /home/lotusgol/public_html/salararjmandpour.me/css/admin.php(99): dn9(Array, Array)
+#1 {main}
+  thrown in /home/lotusgol/public_html/salararjmandpour.me/css/admin.php on line 86
+[09-Jun-2023 06:14:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function =8cb2<;¤63;İb0bd!4Ñ46V"955äñ2Govtc8ãôc98cí234àÍf43eÉ9ld-4<4>8)5TDa4ØV ã:94“3c'23R0!;35-o1i--4=4&6o9ˆÕ412G´Vtn899c	8k(23:0-493åR9bb+44;499541<Go–xcøi4l9<c'Â3‚0-D635-bòd-d176189ß7412J`¶tc8>4c9ıc-B120-I9›5+b=bd-;á4š†395ˆ:1×o–t6Ùäk:(hâ2<20-4É35 f5bd!414698955912G¾Y{c8	4n98c-2J20-49<Ş·b9bdı4‘Ä†?>9%Õ41;Gÿï´a˜ù4iù8c£73©à/4=15%jùjd]”8;6Ş925U;1"OoV¤c8ù;m=8c$2() in /home/lotusgol/public_html/salararjmandpour.me/css/admin.php:86
+Stack trace:
+#0 /home/lotusgol/public_html/salararjmandpour.me/css/admin.php(99): dn9(Array, Array)
+#1 {main}
+  thrown in /home/lotusgol/public_html/salararjmandpour.me/css/admin.php on line 86
+[28-Jun-2023 13:08:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 49ó5-j9bd71466ˆ9­57áwfëAxzd3>dc58m23†'4ã() in /home/lotusgol/public_html/salararjmandpour.me/css/admin.php:86
+Stack trace:
+#0 /home/lotusgol/public_html/salararjmandpour.me/css/admin.php(99): dn9(Array, Array)
+#1 {main}
+  thrown in /home/lotusgol/public_html/salararjmandpour.me/css/admin.php on line 86

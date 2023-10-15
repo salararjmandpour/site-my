@@ -1,0 +1,57 @@
+<link rel="stylesheet" href="style-cart.css" />
+<div class="credit-card-wrap">
+  <div class="mk-icon-world-map"></div>
+  <div class="credit-card-inner">
+    <header class="header">
+      <div class="credit-logo">
+        <div class="shape"></div>
+        <div class="text-2"><span class="text">MELLI BANK</span></div>
+      </div>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    </header>
+    <div class="credit-font credit-card-number" data-text="****">
+      6037 9975 1557 0126
+    </div>
+    <div class="credit-font credit-card-number-IR">
+      IR83 0170 0000 0011 1534 9770 00
+    </div>
+    <footer class="footer">
+      <div class="clearfix">
+        <div class="pull-left">
+          <div class="credit-card-date">
+            <span class="title">Expires End</span
+            ><span class="credit-font">**/**</span>
+          </div>
+          <div class="credit-font credit-author">Salar Arjmandpour</div>
+        </div>
+        <div class="pull-right">
+          <div class="mk-icon-visa"></div>
+        </div>
+      </div>
+      <p style="display: none" id="matna4">6037997515570126</p>
+      <button
+        style="
+          margin-top: 20px;
+          padding: 5px;
+          border-radius: 15px;
+          color: #000;
+          margin-bottom: -27px;
+        "
+        onclick="copyToClipboard('#matna4')"
+      >
+        COPY
+      </button>
+
+      <script>
+        function copyToClipboard(element) {
+          var $temp = $("<input>");
+          $("body").append($temp);
+          $temp.val($(element).text()).select();
+          document.execCommand("copy");
+          $temp.remove();
+          alert("copy successful");
+        }
+      </script>
+    </footer>
+  </div>
+</div>
